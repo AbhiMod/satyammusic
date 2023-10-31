@@ -14,22 +14,22 @@
     "env": {
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6605147503:AAF9NvAXNsQ6g7_tnP5P6ZzBww1Zas43G5E",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "5097836954",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "",
+        "value": "BQCGMLU8LcXw04ROfPlx2KN6qUVxcIkSXjP-8xLrJI8baa5yF2zwW4bwaUwV5T7iQieC3_9sRdQmUJc4I2fQIBF9P_H0PQOat4ILRH9NLb8Mp4seBQJJwdhMZ1ONfLY4VFf_koaxZSAmA3-o_bIy7bNeCQPiVWds88YKPfZ7imsJL3OrYjne1aweIpf4dNKFjnzwOVKY-t25ME_sod15uwN71v8JMMN8s1mJ1zVCNRVNDCVcR0SLDcd2uT2uFnHAgqf6aS5O-XON58LiSIToovaxEUumv-PVZiwtVbjxB0VUC0mTGjDeGTXzGOp6h5_4axOoXV0j-kIY0A8dBv61exMHAAAAAYQ3EXsA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "7f20f55d-1878-4727-9c66-679589e1bfef",
         "required": false
       },
       "HEROKU_APP_NAME": {
