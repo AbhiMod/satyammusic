@@ -14,7 +14,7 @@
     "env": {
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6605147503:AAF9NvAXNsQ6g7_tnP5P6ZzBww1Zas43G5E",
+        "value": "6605147503:AAHoi6D8B0J19CP5wzDe_DKG8APouMsKBXo",
         "required": true
       },
       "OWNER_ID": {
